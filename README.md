@@ -15,6 +15,7 @@ Win by reaching the score goal
 
 Lose if too many enemies slip through or collide with you
 
+---------------------------------------------------------
 
 Assets Needed
 
@@ -32,6 +33,7 @@ space.ogg → background music
 
 fire.ogg → firing sound
 
+---------------------------------------------------------
 
 How to Run
 
@@ -39,6 +41,7 @@ Install Python 3.
 
 Install Pygame (if not already installed):
 
+---------------------------------------------------------
 
 Controls
 
@@ -46,6 +49,7 @@ Controls
 
 Spacebar → Fire bullets
 
+---------------------------------------------------------
 
 Game Rules
 
