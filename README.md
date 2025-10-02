@@ -1,6 +1,8 @@
 A simple space shooter game built with Python and Pygame.
 Move your rocket left and right to avoid enemy UFOs and shoot them down before they reach the bottom of the screen.
 
+--------------------------------------------------------------------------------------------------------------------
+
 Features
 
 Player-controlled spaceship
